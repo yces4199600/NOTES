@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "ce3f2fd729804149",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4d0784278c9145",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "asd.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38ad45bf5e62cdf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5689e1ed9dc301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2c81963d4a842cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5c063589012fb95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "126afb17a9fd9c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8012f3511f650e4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba47cea3fa9173f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "asd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5a8ed7f5e6ecb50",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6a4d0784278c9145",
+  "lastOpenFiles": [
+    "asd.md",
+    "DVWA.md",
+    "SQL_INJECTION.md",
+    "Pasted image 20220629201655.png",
+    "Pasted image 20220629201600.png",
+    "Pasted image 20220629200154.png",
+    "SQLMAP.md"
+  ]
+}
